@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ごくろうさん",
+  "base_artist": "こっちのけんと",
+  "createdAt": "2025-12-05T15:19:20.294621Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごくろうさん",
+      "artist": "こっちのけんと",
+      "has_synced": false,
+      "path": "select/pl_01_ごくろうさん_こっちのけんと.txt"
+    }
+  ]
+}
